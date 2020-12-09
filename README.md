@@ -3,8 +3,7 @@
 
 __Hi ! I'm Sawcce a french 14 yo developer__
 
-[<img width="22px" src="https://i.gyazo.com/b127ef0029c5797654aea031ad381934.png"/>]
-* I’m currently working on BricksWorlds 
+* I’m currently working on BricksWorlds <img width="22px" src="https://i.gyazo.com/b127ef0029c5797654aea031ad381934.png"/>
   * Doing :
     * Website backend
     * Workshop ( Map making tool )
