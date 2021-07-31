@@ -13,17 +13,30 @@ I love to experiment with new stuff and I tend to often make small utility / exp
 
 <br/>
 
-| Comfortable | Learning |
-|-|-|
-| JavaScript | Rust |
-| GoLang | |
-| Python | |
-
+| Comfortable | Learning | To Learn |
+|      -      |    -     |    -     |
+| JavaScript  | Rust     | C++      |
+| GoLang      | Java     | Elixir   |
+| Python      |          |          |
+| Lua         |          |          |
+| C#          |          |          |
+| TypeScript  |          |          |
 
 <br/>
 
-## Tools I use
-- Rust
-- Node 
-- Go
-- Python
+Web Frameworks I use:
+
+- React / Next
+- Svelte
+
+<br/>
+
+Softwares Used:
+
+- Unity
+- Roblox Studio
+- VS / VS Code
+- Putty
+
+(this will probably get updated)
+
