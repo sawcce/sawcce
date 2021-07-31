@@ -15,7 +15,7 @@ I love to experiment with new stuff and I tend to often make small utility / exp
 
 | Comfortable | Learning |
 | --- | --- |
-| JavaScript | ![Logo](https://sawcce.me/icons/rust.png) Rust |
+| JavaScript | <div height="20px">![Logo](https://sawcce.me/icons/rust.png)<div/> Rust |
 | GoLang |  |
 | Python | |
 
