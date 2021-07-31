@@ -9,6 +9,10 @@ I love to experiment with new stuff and I tend to often make small utility / exp
 
 <br />
 
+[![Sawcce's Statistics](https://github-readme-stats.vercel.app/api?username=sawcce)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 ## Tools I use
 - Rust
 - Node 
