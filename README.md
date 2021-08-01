@@ -35,6 +35,7 @@ Softwares Used:
 
 - Unity
 - Roblox Studio
+- IntellijIDEA
 - VS / VS Code
 - Putty
 
