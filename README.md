@@ -15,9 +15,9 @@ I love to experiment with new stuff and I tend to often make small utility / exp
 
 | Comfortable | Learning | To Learn |
 |      -      |    -     |    -     |
-| JavaScript  | Rust     | C++      |
+| JavaScript  | Rust     |          |
 | GoLang      | Java     | Elixir   |
-| Python      |          |          |
+| Python      | C++      |          |
 | Lua         |          |          |
 | C#          |          |          |
 | TypeScript  |          |          |
@@ -36,6 +36,8 @@ Softwares Used:
 - Unity
 - Roblox Studio
 - IntellijIDEA
+- CLion
+- Godot
 - VS / VS Code
 - Putty
 
