@@ -1,5 +1,4 @@
 # Sawcce's GitHub
-### 15 yo Developer
 
 __Hi ! I'm Sawcce a french developer__
 
