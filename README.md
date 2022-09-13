@@ -12,14 +12,7 @@ I love to experiment with new stuff and I tend to often make small utility / exp
 
 <br/>
 
-| Comfortable | Learning | To Learn |
-|      -      |    -     |    -     |
-| JavaScript  | Rust     |          |
-| GoLang      | Java     | Elixir   |
-| Python      | C++      |          |
-| Lua         |          |          |
-| C#          |          |          |
-| TypeScript  |          |          |
+I'm comfortable with languages such as: Javascript (and TS), Rust, C#, Go and learning about C currently.
 
 <br/>
 
@@ -27,18 +20,10 @@ Web Frameworks I use:
 
 - React / Next
 - Svelte
+- Vue
 
 <br/>
 
-Softwares Used:
-
-- Unity
-- Roblox Studio
-- IntellijIDEA
-- CLion
-- Godot
-- VS / VS Code
-- Putty
-
-(this will probably get updated)
+I'm using NeoVim as my main text editor with packer.
+To cutomize my PowerShell prompt I use Oh My Posh!
 
