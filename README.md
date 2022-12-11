@@ -24,6 +24,6 @@ Web Frameworks I use:
 
 <br/>
 
-I'm using NeoVim as my main text editor with packer.
+I'm using Helix as my main text editor with packer.
 To cutomize my PowerShell prompt I use Oh My Posh!
 
