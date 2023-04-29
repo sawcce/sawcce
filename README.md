@@ -1,10 +1,10 @@
 # Sawcce's GitHub
 
-__Hi ! I'm Sawcce a french developer__
+__Hi ! I'm Sawcce, a french developer__
 
 <br />
 
-I love to experiment with new stuff and I tend to often make small utility / experimental packages for node or other programming languages
+I love to experiment with new stuff! Currently trying out zig for osdev.
 
 <br />
 
@@ -12,7 +12,7 @@ I love to experiment with new stuff and I tend to often make small utility / exp
 
 <br/>
 
-I'm comfortable with languages such as: Javascript (and TS), Rust, C#, Go and learning about C currently.
+I'm comfortable with languages such as: Javascript/Typescript, Rust, Zig.
 
 <br/>
 
@@ -24,6 +24,8 @@ Web Frameworks I use:
 
 <br/>
 
-I'm using Helix and Visual Studio Code as my code editors.
-To cutomize my PowerShell prompt I use Oh My Posh!
+I use spacemacs, helix and VSCode as my code editors!
 
+Currently coding on:
+- Windows
+- ArchLinux (X11 + XMonad)
