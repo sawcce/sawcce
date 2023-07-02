@@ -12,19 +12,20 @@ I love to experiment with new stuff! Currently trying out zig for osdev.
 
 <br/>
 
-I'm comfortable with languages such as: Javascript/Typescript, Rust, Zig.
+I mainly use Javascript/TS and Rust on my projects currently.
+I have also been learning other languages such as Zig and Elixir in my free time.
 
 <br/>
 
 Web Frameworks I use:
 
 - React / Next
-- Svelte
-- Vue
+- Svelte / Sveltekit (although I haven't used it in a while)
+- Vue / Nuxt
 
 <br/>
 
-I use spacemacs, helix and VSCode as my code editors!
+I use spacemacs, helix and VSCode as my code editors! (also Android Studio and Intellij Idea occasionally)
 
 Currently coding on:
 - Windows
