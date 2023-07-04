@@ -20,7 +20,7 @@ I have also been learning other languages such as Zig and Elixir in my free time
 Web Frameworks I use:
 
 - React / Next
-- Svelte / Sveltekit (although I haven't used it in a while)
+- Svelte / Sveltekit (although I haven't used them in a while)
 - Vue / Nuxt
 
 <br/>
