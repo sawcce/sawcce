@@ -1,6 +1,6 @@
 # Sawcce's GitHub
 
-__Hi ! I'm Sawcce, a french developer__
+__Hi ! I'm Sawcce, a french developer (and student)__
 
 <br />
 
