@@ -29,4 +29,4 @@ I use spacemacs, helix and VSCode as my code editors! (also Android Studio and I
 
 Currently coding on:
 - Windows
-- ArchLinux (X11 + XMonad)
+- ArchLinux (Hyprland)
