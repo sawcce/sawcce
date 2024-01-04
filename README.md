@@ -1,6 +1,8 @@
 # Sawcce's GitHub
 
-__Hi ! I'm Sawcce, a french developer (and student)__
+__Hi ! I'm Sawcce, a french developer (and student)__  
+
+Currently studying Maths, Physics and Industrial Engineering in TSI.
 
 <br />
 
