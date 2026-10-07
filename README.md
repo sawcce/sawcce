@@ -2,7 +2,7 @@
 
 __Hi ! I'm Sawcce, a french developer (and student)__  
 
-Currently studying Maths, Physics and Industrial Engineering in TSI.
+Currently in my second year of post CPGE studies at CentraleSupélec in the "Multi-disciplinary Engineering" track.
 
 <br />
 
@@ -29,4 +29,4 @@ I use Doom Emacs, NeoVim and VSCode as my code editors! (also Android Studio and
 
 Currently coding on:
 - Windows
-- ArchLinux (Hyprland)
+- Fedora (Niri)
